@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlacesAutoComplete</string>
+
+    <string name="choose_place">Choose Place</string>
+</resources>
